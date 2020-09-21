@@ -1,9 +1,8 @@
-## Personal Single Page Applications Sites
-- It uses Self Hosted Clojurescript to routes and evaluate contents
-- Use Datascript DB, Datoms EDN Fetched from url Then core.cljs making sure it routes and evaluate correct cljs namespaces
+azizzaeny.github.io  
 
-
-
-
-
-I call it "The Eval Pages", Self Hosted Cljs Blog That can Evaluate Them self
+ - revisit 404.html into static index. 
+ - route back to index.html when no visited pages.
+ - moved all source to it's own gh-pages
+ - session storage saved in local scripts
+ 
+ 
